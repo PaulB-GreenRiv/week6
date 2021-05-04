@@ -1,0 +1,12 @@
+{
+  "name": "328/week6",
+  "authors": [
+    {
+      "name": "Paul Butler",
+      "email": "Pbutler10@mail.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
